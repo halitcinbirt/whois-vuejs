@@ -1,5 +1,5 @@
 <script setup>
-import Domain from './components/Domain.vue'
+import Domain from '../src/components/domain'
 import '../src/assets/main.css'
 </script>
 
