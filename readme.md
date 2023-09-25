@@ -10,7 +10,7 @@
 
 ## Demo
 
-[https://jobs-nextjs.vercel.app/](https://whois-vuejs.vercel.app/)https://whois-vuejs.vercel.app/
+https://whois-vuejs.vercel.app/
 
 ## API
 
