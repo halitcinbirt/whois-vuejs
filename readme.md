@@ -10,5 +10,8 @@
 
 ## Demo
 
-https://jobs-nextjs.vercel.app/
+[https://jobs-nextjs.vercel.app/](https://whois-vuejs.vercel.app/)https://whois-vuejs.vercel.app/
 
+## API
+
+https://rapidapi.com/Zozor54/api/whois-lookup/
